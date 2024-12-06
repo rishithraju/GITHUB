@@ -1,0 +1,9 @@
+hello
+hi
+rishith
+ps
+ps -a
+docker build -t image . > creating a image
+docker images > shows images
+docker run -it --name cont ubuntu > creating container
+
